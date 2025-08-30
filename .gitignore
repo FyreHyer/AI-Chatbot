@@ -1,0 +1,27 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+*.log
+*.tmp
+*.bak
+*.swp
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore environment files
+.env
